@@ -272,3 +272,35 @@ width:100%;
 }
 
 }
+
+.progress{
+margin-top:12px;
+height:10px;
+background:#ddd;
+border-radius:20px;
+overflow:hidden;
+}
+
+.progressFill{
+height:100%;
+transition:.4s;
+}
+
+.summary{
+margin-top:35px;
+padding:20px;
+background:white;
+border-radius:18px;
+color:#111827;
+box-shadow:0 8px 20px rgba(0,0,0,.1);
+}
+
+.summary h2{
+margin-bottom:15px;
+color:#111827;
+}
+
+.summary p{
+margin:8px 0;
+font-size:16px;
+}
